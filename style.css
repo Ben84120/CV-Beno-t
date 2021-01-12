@@ -74,7 +74,7 @@ header p
 .image {
 	width: 620px;
     height: 240px;
-	margin-top: 10%;
+	bottom: 0;
 }
 
 
